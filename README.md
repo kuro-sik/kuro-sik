@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=9F00FF&multiline=true&width=435&lines=frontend+developer%2C+designer)](https://git.io/typing-svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuro-sik&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuro-sik&theme=tokyonight)
+[](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuro-sik&theme=tokyonight)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=9F00FF&multiline=true&width=435&lines=languages%3A)](https://git.io/typing-svg)
 
@@ -25,5 +24,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuro-sik&theme=github_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsmilegod23&theme=github_dark)|
-| 👇 Connect with me: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Для связи со мной: 👇 |👇 My creativity &nbsp; &nbsp; &nbsp;  Мое творчество 👇|
-|<a href="https://t.me/MrSmileGod23" target="_blank">![telegram](https://img.shields.io/badge/telegram-101511?style=for-the-badge&logo=telegram&logoColor=white)</a> &nbsp;&nbsp;&nbsp;<a href="https://vk.com/kuro-sik" target="_blank">![vk](https://img.shields.io/badge/Vk-101511?style=for-the-badge&logo=vk&logoColor=white)</a>|<a href="https://www.instagram.com/mrsmilegod23/" target="_blank">![instagramm](https://img.shields.io/badge/insta-101511?style=for-the-badge&logo=instagram&logoColor=white)</a> &nbsp;&nbsp;&nbsp;<a href="https://www.twitch.tv/mrsmilegod23" target="_blank">![twitch](https://img.shields.io/badge/twitch-101511?style=for-the-badge&logo=twitch&logoColor=white)</a> &nbsp;&nbsp;&nbsp;|
+
+|<a href="https://t.me/MrSmileGod23" target="_blank">!</a> &nbsp;&nbsp;&nbsp;<a href="https://vk.com/kuro-sik" target="_blank"></a>|<a href="https://www.instagram.com/mrsmilegod23/" target="_blank"></a> &nbsp;&nbsp;&nbsp;<a href="https://www.twitch.tv/mrsmilegod23" target="_blank">![twitch](https://img.shields.io/badge/twitch-101511?style=for-the-badge&logo=twitch&logoColor=white)</a> &nbsp;&nbsp;&nbsp;|
