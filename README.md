@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=9F00FF&multiline=true&width=435&lines=frontend+developer%2C+designer)](https://git.io/typing-svg)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuro-sik&theme=tokyonight) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuro-sik&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuro-sik&theme=tokyonight) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuro-sik&theme=tokyonight)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=9F00FF&multiline=true&width=435&lines=languages%3A)](https://git.io/typing-svg)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=9F00FF&multiline=true&width=435&lines=design:)](https://git.io/typing-svg)
 
