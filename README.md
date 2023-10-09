@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=9F00FF&multiline=true&width=435&lines=frontend+developer%2C+designer)](https://git.io/typing-svg)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuro-sik&theme=tokyonight)|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuro-sik&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuro-sik&theme=tokyonight) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuro-sik&theme=tokyonight)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=9F00FF&multiline=true&width=435&lines=languages%3A)](https://git.io/typing-svg)
 
@@ -21,6 +21,3 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuro-sik&theme=github_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsmilegod23&theme=github_dark)|
-
