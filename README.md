@@ -1,12 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=9F00FF&multiline=true&width=435&lines=frontend+developer%2C+designer)](https://git.io/typing-svg)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuro-sik&theme=tokyonight) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuro-sik&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuro-sik&show_icons=true&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuro-sik&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=9F00FF&multiline=true&width=435&lines=languages%3A)](https://git.io/typing-svg)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%230066B8.svg?style=for-the-badge&logo=database&logoColor=white)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=9F00FF&multiline=true&width=435&lines=others:)](https://git.io/typing-svg)
 
@@ -17,3 +20,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=9F00FF&multiline=true&width=435&lines=Text+me:)](https://git.io/typing-svg)
+
+[![Telegram](https://img.shields.io/badge/Telegram-%2300A8E6.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kurosik)
