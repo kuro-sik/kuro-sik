@@ -9,7 +9,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%230066B8.svg?style=for-the-badge&logo=database&logoColor=white)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=9F00FF&multiline=true&width=435&lines=others:)](https://git.io/typing-svg)
 
